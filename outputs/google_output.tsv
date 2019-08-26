@@ -1,0 +1,132 @@
+affiliation	freq	formatted_address	locality	admin_district	country	lat	lng
+ a  Institute of Ecology , Akademijos 2,  2600 ,  Vilnius ,  Lithuania	171	N/A	N/A	N/A	N/A	N/A	N/A
+ a  Institute of Geography , Moscow	187	N/A	N/A	N/A	N/A	N/A	N/A
+#N#            *Steadman Philippon Research Institute, Vail, Colorado, USA	100	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        34, Myddelton Square, Clerkenwell	129	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        71, Brecknock Road	660	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Bath	159	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Beaconsfield	120	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Birmingham	408	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Blackheath	308	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Bottesford Manor, Brigg	169	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Brighton	172	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Cambridge	422	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Dublin	363	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Edinburgh	118	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Fair Park, Exeter	175	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Glasgow	156	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Guernsey	117	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Hampstead, N.W.	118	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Helensburgh, N.B.	124	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Lancaster	178	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Leigh, Lancashire	100	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Lichfield	107	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Long Itchington, Warwickshire	147	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Manchester	194	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Mayfair	117	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Newbourne Rectory, Woodbridge	667	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Newcastle-upon-Tyne	117	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Oxford	627	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Philadelphia	263	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Portland, Oregon	107	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Sandgate	125	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Spennymoor	309	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        St. Stephen's Rectory, C.-on-M., Manchester	107	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Swallowfield Park, Reading	131	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Sydenham Hill	142	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Torquay	112	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Walthamstow	100	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        West Haddon, Northamptonshire	183	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Westminster	126	N/A	N/A	N/A	N/A	N/A	N/A
+#N#        Worksop	286	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aAIST	103	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aApplied Materials	108	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aArgonne National Laboratory	554	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aArizona State University	142	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aAuburn University	278	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aBrno University of Technology	274	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aCalifornia Institute of Technology	131	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aCenter for Physical Sciences and Technology	234	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aChinese Academy of Sciences	176	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aChonnam National University	157	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aDoshisha University	103	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aDrexel University	137	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aForschungszentrum JAA 1/4 lich GmbH	142	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aGeorgia Institute of Technology	210	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aHanbat National University	124	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aHanyang University	347	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aHokkaido University	184	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aIHP	123	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aIllinois Institute of Technology	123	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aImec	128	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aImperial College London	140	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKanagawa University	147	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKorea Institute of Energy Research	139	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKorea Institute of Science and Technology	121	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKorea University	119	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKyoto University	259	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aKyushu University	386	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aLos Alamos National Laboratory	432	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aMassachusetts Institute of Technology	309	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aMcMaster University	130	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aMichigan State University	154	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNagoya University	108	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Chiao Tung University	115	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Institute for Materials Science	101	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Institute of Advanced Industrial Science and Technology	126	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Institute of Standards and Technology	105	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Renewable Energy Laboratory	220	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNational Tsing Hua University	173	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aNaval Research Laboratory	105	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aOak Ridge National Laboratory	246	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aOsaka Prefecture University	159	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aOsaka University	211	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aPacific Northwest National Laboratory	349	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aPolitecnico di Milano	173	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aSandia National Laboratories	250	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aSeoul National University	290	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aSimon Fraser University	128	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aStanford University	167	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aStony Brook University	154	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aTianjin University of Technology	118	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aTohoku University	489	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aTokyo Institute of Technology	421	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aTokyo University of Science	290	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity College London	101	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Alberta	122	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Connecticut	180	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Florida	256	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Maryland	127	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Michigan	140	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of New Mexico	115	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of South Carolina	204	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Tartu	127	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Toronto	223	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Utah	104	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Virginia	116	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Warsaw	146	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUniversity of Waterloo	114	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aUral Federal University	146	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aVanderbilt University	112	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aXiamen University	100	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aYokohama National University	160	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aYonsei University	103	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#aimec	343	N/A	N/A	N/A	N/A	N/A	N/A
+#N##N#bArgonne National Laboratory	111	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aArgonne National Laboratory	444	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aAuburn University	152	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aChonnam National University	110	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aDrexel University	113	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aGeorgia Institute of Technology	166	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aHanbat National University	138	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aHanyang University	196	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aHokkaido University	143	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aImperial College London	106	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aKanagawa University	128	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aKyoto University	183	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aLos Alamos National Laboratory	200	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aMassachusetts Institute of Technology	141	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aNational Renewable Energy Laboratory	167	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aOak Ridge National Laboratory	149	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aPacific Northwest National Laboratory	252	N/A	N/A	N/A	N/A	N/A	N/A
+#N##TAB##TAB##TAB#aSandia National Laboratories	215	N/A	N/A	N/A	N/A	N/A	N/A
